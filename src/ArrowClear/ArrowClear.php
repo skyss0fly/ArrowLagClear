@@ -1,6 +1,6 @@
 <?php
 
-namespace ArrowClear;
+namespace aqua\ArrowClear;
 
 use pocketmine\event\entity\ProjectileHitEvent;
 use pocketmine\event\Listener;
